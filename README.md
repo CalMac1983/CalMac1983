@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Cal.
 - 🌱 I’m currently learning ... how to do any of this!
+- html, css, js, Figma................................
